@@ -15,7 +15,7 @@ import { TestimonialsColumn } from "@/components/ui/testimonials-columns-1";
 import {
   Home, Info, Briefcase, Phone, CheckCircle, ShieldCheck,
   Zap, Droplets, Sparkles, MapPin, Star, Wrench,
-  ArrowRight, Check, ChevronDown, Clock
+  ArrowRight, Check, ChevronDown, Clock, X
 } from "lucide-react";
 
 // ─── Data ─────────────────────────────────────────────────────────────────────
